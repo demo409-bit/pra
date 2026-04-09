@@ -2,8 +2,8 @@ code.py - has all github codes
 
 list.py - list of repo items
 
-p1.py - 2d & 3d Transformations code 
-
+p1.py - 2d & 3d Transformations code in py
+p2.py  html and js
 jump.py - jumping and coin collecting game steps
  
 jump.zip - zip file of jumping and coin collecting game
