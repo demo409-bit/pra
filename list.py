@@ -24,3 +24,13 @@ coin - coin collecting game steps
 coin2.py 
 rooftopjump.py 
 coin.rar - rar file of coin collecting game
+
+
+Archit 
+https://raw.githubusercontent.com/RPiGPIO/godot/main/roof.py
+Transformation: trans.py
+Web game : html.txt
+Coin collector: coin.py
+Zombie: zombie.py
+Coconut: coconut.py
+Roof : roof.py
