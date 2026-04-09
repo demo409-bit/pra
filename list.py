@@ -21,5 +21,6 @@ enemy.py - enemy in between have to dodge them to reach a goal steps
 enemy.zip - zip file of enemy in between have to dodge them to reach a goal game
 
 coin - coin collecting game steps
-
+coin2.py 
+rooftopjump.py 
 coin.rar - rar file of coin collecting game
